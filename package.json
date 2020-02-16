@@ -1,0 +1,14 @@
+{
+  "name": "docker-mc-client",
+  "version": "1.0.0",
+  "description": "Run a headless Minecraft client in a Docker container for AFK purposes.",
+  "main": "src/index.js",
+  "repository": "https://github.com/sylv/docker-mc-client",
+  "author": "Ryan <ryan@sylver.me>",
+  "license": "GNU-GPL-3.0",
+  "private": true,
+  "dependencies": {
+    "mineflayer": "^2.11.0",
+    "yargs-parser": "^17.0.0"
+  }
+}
